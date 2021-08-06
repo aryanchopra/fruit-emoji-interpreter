@@ -1,2 +1,2 @@
 # fruit-emoji-interpreter
-Created with CodeSandbox
+An emoji interpreter that tells you the names of different fruit emojis
